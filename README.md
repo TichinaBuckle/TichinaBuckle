@@ -3,13 +3,11 @@
 <!--
 **TichinaBuckle/TichinaBuckle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- Data Scientist | Viz Enthusiast
-- Computer Science Graduate
+- Data Scientist | Data Viz Enthusiast
+- Computer Science Major
 
 ## About
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-- 📫 How to reach me: (LinkedIn)[https://www.linkedin.com/in/tichinabuckle/], [Email](tichinabuckle@gamil.com)
+- 🌱 Learning: Front End Development
+- 💬 Langauages: Python, SQL, JavaScript
+- ⚡ Tools: Tableau, MySQL, Google Sheets and Excel
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tichinabuckle/), [Email](tichinabuckle@gamil.com)
