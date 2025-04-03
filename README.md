@@ -3,7 +3,8 @@
 <!--
 **TichinaBuckle/TichinaBuckle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- Data Scientist | Data Viz Enthusiast
+- Data Scientist
+- Data Viz Enthusiast
 - Computer Science Major
 
 ## About
