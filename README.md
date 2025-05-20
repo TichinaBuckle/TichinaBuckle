@@ -8,7 +8,7 @@
 - Computer Science Major
 
 ## About
-- 🌱 **Learning:** Machine Learning
+- 🌱 **Learning:** React
 - 💬 **Langauages:** Python, SQL, JavaScript
 - ⚡ **Tools:** Tableau, MySQL, Google Sheets and Excel
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/tichinabuckle/), [Email](tichinabuckle@gamil.com)
